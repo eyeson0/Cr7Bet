@@ -1,0 +1,6 @@
+{
+  "name": "CR7BET - Sports Insights & Fan Prediction Arena",
+  "description": "A premium sports information, live scores, and non-monetary fan prediction application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
